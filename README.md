@@ -47,17 +47,20 @@ Choose one method:
 Option 1 (Dictionary): Import contacts.xlsx, convert rows to dictionaries, extract data, split names, and create first_name and last_name columns.
 
 3.	Create the Crowdfunding Database- Cai Lishi
+   
 •	ERD and Schema:
-o	Inspect all CSV files and design an ERD using QuickDBD.
-o	Define tables with primary/foreign keys and constraints, then save the schema as crowdfunding_db_schema.sql.
-•	Database Setup:
-o	Create a PostgreSQL database called crowdfunding_db.
-o	Use your schema file to create tables in the correct order.
-o	Import each CSV file into its respective table.
-o	Run SELECT * on each table to verify correct data.
+Inspect all CSV files and design an ERD using QuickDBD.
+Define tables with primary/foreign keys and constraints, then save the schema as crowdfunding_db_schema.sql.
+Database Setup:
+Create a PostgreSQL database called crowdfunding_db.
+Use your schema file to create tables in the correct order.
+Import each CSV file into its respective table.
+Run SELECT * on each table to verify correct data.
+
+
 
 •	Project Requirements Breakdown:
-Requirement	Points
+
 Category DataFrame Created	15
 Subcategory DataFrame Created	15
 Campaign DataFrame Created	30
