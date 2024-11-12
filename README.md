@@ -1,6 +1,7 @@
 Crowdfunding_ETL
 
  Project 2 - ETL Mini Project
+ 
 Contributors:
 •	Samadhi Loku Hewage
 •	Cai Lishi
@@ -17,6 +18,7 @@ o	Add the Resources folder with the crowdfunding.xlsx and contacts.xlsx files to
 
 
 2.	 Create the Category and Subcategory DataFrames, Campaign DataFrame, Contacts DataFrame  - Samadhi Loku Hewage
+   
 •	Category DataFrame:
 o	Extract data from crowdfunding.xlsx.
 o	Create a category_id column with values cat1, cat2, etc.
