@@ -26,7 +26,11 @@ Extract data from crowdfunding.xlsx.
 Create a category_id column with values cat1, cat2, etc.
 Create a category column with unique category titles.
 Export this DataFrame as category.csv.
-Subcategory DataFrame:
+
+
+
+• Subcategory DataFrame:
+
 Extract subcategory data similarly.
 Create a subcategory_id column with values subcat1, subcat2, etc.
 Create a subcategory column with unique subcategory titles.
@@ -43,7 +47,7 @@ Convert UTC times in launched_at and deadline columns to datetime, renaming them
 Use category_id and subcategory_id to match data from the Category and Subcategory DataFrames.
 Export the completed DataFrame as campaign.csv.
 
-Create the Contacts DataFrame
+• Create the Contacts DataFrame
 
 Choose one method:
 Option 1 (Dictionary): Import contacts.xlsx, convert rows to dictionaries, extract data, split names, and create first_name and last_name columns.
