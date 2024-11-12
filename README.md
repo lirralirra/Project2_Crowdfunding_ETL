@@ -70,7 +70,11 @@ Run SELECT * on each table to verify correct data.
 •	Project Requirements Breakdown:
 
 Category DataFrame Created	15
+
 Subcategory DataFrame Created	15
+
 Campaign DataFrame Created	30
+
 Contacts DataFrame Created	15
+
 Crowdfunding Database Created	25
