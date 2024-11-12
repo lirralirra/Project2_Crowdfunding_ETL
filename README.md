@@ -42,9 +42,13 @@ Convert goal and pledged columns to float.
 Convert UTC times in launched_at and deadline columns to datetime, renaming them launch_date and end_date.
 Use category_id and subcategory_id to match data from the Category and Subcategory DataFrames.
 Export the completed DataFrame as campaign.csv.
+
 Create the Contacts DataFrame
+
 Choose one method:
 Option 1 (Dictionary): Import contacts.xlsx, convert rows to dictionaries, extract data, split names, and create first_name and last_name columns.
+
+
 
 3.	Create the Crowdfunding Database- Cai Lishi
    
