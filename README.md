@@ -32,7 +32,7 @@ QuickDB_ERD_project2.png - ERD of all the tables
 QuickDB_project2.pdf - details of ERD design
 
 
-#### 2.2 create a table schema for each CSV file –
+#### 2.2 create a table schema for each CSV file and create a database
 
 Files in repo:
 
