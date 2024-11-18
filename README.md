@@ -16,7 +16,7 @@ Files in repo:
 
 1.1.	main script - ETL_Mini_Project_Starter_Code_LLokuhewage_CLishi.ipynb
 
-1.2.	Folder Resources - All the csv files stores from the main script including: Category.csv, Subcategory.csv, Campaign.csv, Contacts.csv
+1.2.	Folder 'Resources' - All the csv files stores from the main script including: Category.csv, Subcategory.csv, Campaign.csv, Contacts.csv
 
 
 
@@ -40,4 +40,4 @@ crowdfunding_db_schema.sql  - a table schema for each file
 
 Display_data.sql – query to display the data
 
-Folder: import_and_select_results -  to store all the images of ‘importing and query results’
+Folder: 'import_and_select_results' -  to store all the images of ‘importing and query results’
