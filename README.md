@@ -6,9 +6,11 @@ Contributors:
 •   Samadhi Loku Hewage
 •   Cai Lishi
 
-Project aim:
 
-1. Generate Data Frames as CSV files
+
+**Project aim:**
+
+# **1. Generate Data Frames as CSV files**
 
 Files in repo:
 
@@ -16,7 +18,10 @@ Files in repo:
 
 1.2.	Folder Resources - All the csv files stores from the main script including: Category.csv, Subcategory.csv, Campaign.csv, Contacts.csv
 
-2. Create the Crowdfunding Database
+
+
+
+# **2. Create the Crowdfunding Database**
 
 2.1 ERD created by using QuickDBD – 
 
@@ -25,6 +30,7 @@ Files in repo:
 QuickDB_ERD_project2.png, 
 
 QuickDB_project2.pdf
+
 
 2.2 create a table schema for each CSV file – 
 
