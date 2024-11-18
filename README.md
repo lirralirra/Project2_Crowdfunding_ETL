@@ -27,16 +27,16 @@ Files in repo:
 
 Files in repo: 
 
-QuickDB_ERD_project2.png, 
+QuickDB_ERD_project2.png - ERD of all the tables
 
-QuickDB_project2.pdf
+QuickDB_project2.pdf - details of ERD design
 
 
 #### 2.2 create a table schema for each CSV file –
 
 Files in repo:
 
-crowdfunding_db_schema.sql
+crowdfunding_db_schema.sql  - a table schema for each file
 
 Display_data.sql – query to display the data
 
