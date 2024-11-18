@@ -32,12 +32,12 @@ QuickDB_ERD_project2.png - ERD of all the tables
 QuickDB_project2.pdf - details of ERD design
 
 
-#### 2.2 create a table schema for each CSV file and create a database
+#### 2.2 create a table schema for each CSV file and create a database (crowdfunding_db) using pgadmin4 
 
 Files in repo:
 
 crowdfunding_db_schema.sql  - a table schema for each file
 
-Display_data.sql – query to display the data
+Display_data.sql – the query to display the all data
 
-Folder: 'import_and_select_results' -  to store all the images of ‘importing and query results’
+Folder: 'import_and_select_results' -  to store all the images of ‘importing csv and query results’
