@@ -1,6 +1,6 @@
-Crowdfunding_ETL
+# Crowdfunding_ETL
 
- Project 2 - ETL Mini Project
+##  Project 2 - ETL Mini Project
  
 Contributors:
 •   Samadhi Loku Hewage
@@ -8,9 +8,9 @@ Contributors:
 
 
 
-**Project aim:**
+## **Project aim:**
 
-# **1. Generate Data Frames as CSV files**
+### **1. Generate Data Frames as CSV files**
 
 Files in repo:
 
@@ -21,9 +21,9 @@ Files in repo:
 
 
 
-# **2. Create the Crowdfunding Database**
+### **2. Create the Crowdfunding Database**
 
-## 2.1 ERD created by using QuickDBD – 
+#### 2.1 ERD created by using QuickDBD –
 
 Files in repo: 
 
@@ -32,7 +32,7 @@ QuickDB_ERD_project2.png,
 QuickDB_project2.pdf
 
 
-## 2.2 create a table schema for each CSV file – 
+#### 2.2 create a table schema for each CSV file –
 
 Files in repo:
 
